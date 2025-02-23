@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8H4C+aWDx8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo\\Projects\\sandqvist-ftb-webapi\\Sandqvist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
