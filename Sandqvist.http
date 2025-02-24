@@ -3,4 +3,7 @@
 GET {{Sandqvist_HostAddress}}/weatherforecast/
 Accept: application/json
 
+GET {{Sandqvist_HostAddress}}/swedish-royal-family-api/
+Accept: application/json
+
 ###

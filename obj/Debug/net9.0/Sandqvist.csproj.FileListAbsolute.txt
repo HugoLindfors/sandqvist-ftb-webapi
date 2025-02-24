@@ -31,3 +31,4 @@ C:\Users\Hugo\Projects\sandqvist-ftb-webapi\obj\Debug\net9.0\refint\Sandqvist.dl
 C:\Users\Hugo\Projects\sandqvist-ftb-webapi\obj\Debug\net9.0\Sandqvist.pdb
 C:\Users\Hugo\Projects\sandqvist-ftb-webapi\obj\Debug\net9.0\Sandqvist.genruntimeconfig.cache
 C:\Users\Hugo\Projects\sandqvist-ftb-webapi\obj\Debug\net9.0\ref\Sandqvist.dll
+C:\Users\Hugo\Projects\sandqvist-ftb-webapi\obj\Debug\net9.0\Sandqvist.sourcelink.json
